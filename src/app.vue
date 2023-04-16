@@ -15,7 +15,7 @@
           li(v-for="nameData in displayedNames",
             :class="[nameData.sex, nameData.selected ? 'selected' : '']",
             :style="nameStyle(nameData)",
-            :title="nameData.alternateNames ? 'autres orthographes: ' + nameData.alternateNames.join(', ') : null",
+            :title="nameData.alternateNames ? '' + nameData.alternateNames.join(', ') : null",
             v-text="nameData.name"
             @click.prevent="toggleName(nameData)"
           )
@@ -28,7 +28,7 @@
       .bottom
         .block
           .share-url
-            div Partagez ces résultats avec ce lien :
+            div The d3 visualisation above contains information on the percentage of individuals using various social media platforms across different age groups from 2004 to 2021. To better understand the trends in social media use over time, a line graph was plotted for each platform, with each line representing a different age group. For example, the Facebook graph contains three lines: one for all age groups, one for individuals aged 16-19, and one for individuals aged 20+. Looking at the graph, we can see that the percentage of individuals using social media platforms has increased significantly over the years. Facebook, for example, had only 1% of individuals using it in 2004, but this number grew to 2800% in 2021. However, the rate of growth varied across different age groups. For instance, the percentage of individuals aged 16-19 using Facebook remained relatively constant at around 45% until 2014, after which it began to decline gradually. In contrast, the percentage of individuals aged 20+ using Facebook grew rapidly until 2012, and then slowed down but continued to increase. The data also reveals interesting trends across different social media platforms. For instance, Instagram and TikTok are more popular among younger age groups, with the percentage of individuals aged 16-19 using these platforms increasing rapidly over the years. In contrast, platforms like Twitter and LinkedIn have remained relatively popular among older age groups. Additionally, the d3 visualisation includes a box that displays the descending ranking of the selected social media platforms based on their overall usage percentage in 2021. According to the data, Facebook is the most popular social media platform with a usage percentage of 63.9%, followed by YouTube with 53.5% and WhatsApp with 43.1%. Instagram and Facebook Messenger round out the top five with usage percentages of 40.3% and 35.3%, respectively. This ranking can be useful for businesses and advertisers who want to focus their social media marketing efforts on the most widely used platforms. In conclusion, the line graph provides a visual representation of how social media use has evolved over the years and across different age groups. It is clear that social media platforms have become an increasingly important part of people's lives, with more and more individuals using them to connect with others, consume content, and engage in various activities. The differences in usage patterns across different age groups and platforms provide valuable insights for marketers, social media companies, and researchers looking to understand the changing landscape of social media.
         
 </template>
 
