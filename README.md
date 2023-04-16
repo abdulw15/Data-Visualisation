@@ -1,7 +1,17 @@
-how to build:
+#### how to build:
+
+```
 npm install
 npm run build
+```
+
 compiled code is located at build/
+
+#### how to develop
+
+```
+npm run dev
+```
 
 how to develop
 npm run dev
