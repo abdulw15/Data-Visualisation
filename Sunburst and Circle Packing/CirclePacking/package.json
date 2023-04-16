@@ -1,0 +1,14 @@
+{
+  "name": "c6436d437d6be1a4",
+  "main": "c6436d437d6be1a4@249.js",
+  "version": "249.0.0",
+  "homepage": "https://observablehq.com/d/c6436d437d6be1a4",
+  "author": {
+    "name": "Abdul_Wafeeq_Ali",
+    "url": "https://observablehq.com/@abdulwafeeqali"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}

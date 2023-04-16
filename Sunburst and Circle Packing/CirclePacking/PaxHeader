@@ -1,0 +1,4479 @@
+{
+	"name": "root",
+	"children": [{
+			"name": "USA",
+			"children": [{
+					"name": "Arizona",
+					"children": [{
+						"name": "University of Arizona",
+						"children": [{
+								"author_color": "#3B6001",
+								"name": "Facebook",
+								"weight": 0.157,
+								"size": 8
+							},
+							{
+								"author_color": "#E1306C",
+								"name": "Instagram",
+								"weight": 0.529,
+								"size": 27
+							},
+							{
+								"author_color": "#FEE704",
+								"name": "Snapchat",
+								"weight": 0.039,
+								"size": 2
+							},
+							{
+								"author_color": "#E3F1FC",
+								"name": "Twitter",
+								"weight": 0.098,
+								"size": 5
+							},
+							{
+								"author_color": "#FFFFFF",
+								"name": "None",
+								"weight": 0.176,
+								"size": 9
+							}
+						]
+					}]
+				},
+				{
+					"name": "Illinois",
+					"children": [{
+							"name": "Northwestern University",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.261,
+									"size": 30
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.409,
+									"size": 47
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.035,
+									"size": 4
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.035,
+									"size": 4
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.261,
+									"size": 30
+								}
+							]
+						},
+						{
+							"name": "Illinois State",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.25,
+									"size": 3
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.083,
+									"size": 1
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.083,
+									"size": 1
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.0,
+									"size": 0
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.583,
+									"size": 7
+								}
+							]
+						},
+						{
+							"name": "University of Illinois",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.209,
+									"size": 18
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.279,
+									"size": 24
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.035,
+									"size": 3
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.081,
+									"size": 7
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.395,
+									"size": 34
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Indiana",
+					"children": [{
+							"name": "Purdue University",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.059,
+									"size": 1
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.118,
+									"size": 2
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.0,
+									"size": 0
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.059,
+									"size": 1
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.765,
+									"size": 13
+								}
+							]
+						},
+						{
+							"name": "Butler University",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.273,
+									"size": 9
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.394,
+									"size": 13
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.0,
+									"size": 0
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.152,
+									"size": 5
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.182,
+									"size": 6
+								}
+							]
+						},
+						{
+							"name": "Indiana University",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.225,
+									"size": 18
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.3,
+									"size": 24
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.05,
+									"size": 4
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.125,
+									"size": 10
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.3,
+									"size": 24
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Maine",
+					"children": [{
+						"name": "Bates College",
+						"children": [{
+								"author_color": "#3B6001",
+								"name": "Facebook",
+								"weight": 0.17,
+								"size": 8
+							},
+							{
+								"author_color": "#E1306C",
+								"name": "Instagram",
+								"weight": 0.383,
+								"size": 18
+							},
+							{
+								"author_color": "#FEE704",
+								"name": "Snapchat",
+								"weight": 0.0,
+								"size": 0
+							},
+							{
+								"author_color": "#E3F1FC",
+								"name": "Twitter",
+								"weight": 0.085,
+								"size": 4
+							},
+							{
+								"author_color": "#FFFFFF",
+								"name": "None",
+								"weight": 0.362,
+								"size": 17
+							}
+						]
+					}]
+				},
+				{
+					"name": "Michigan",
+					"children": [{
+						"name": "University of Michigan",
+						"children": [{
+								"author_color": "#3B6001",
+								"name": "Facebook",
+								"weight": 0.231,
+								"size": 12
+							},
+							{
+								"author_color": "#E1306C",
+								"name": "Instagram",
+								"weight": 0.308,
+								"size": 16
+							},
+							{
+								"author_color": "#FEE704",
+								"name": "Snapchat",
+								"weight": 0.019,
+								"size": 1
+							},
+							{
+								"author_color": "#E3F1FC",
+								"name": "Twitter",
+								"weight": 0.038,
+								"size": 2
+							},
+							{
+								"author_color": "#FFFFFF",
+								"name": "None",
+								"weight": 0.404,
+								"size": 21
+							}
+						]
+					}]
+				},
+				{
+					"name": "Missouri",
+					"children": [{
+							"name": "Missouri State University",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.12,
+									"size": 3
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.4,
+									"size": 10
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.0,
+									"size": 0
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.08,
+									"size": 2
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.4,
+									"size": 10
+								}
+							]
+						},
+						{
+							"name": "University of Missouri",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.167,
+									"size": 4
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.125,
+									"size": 3
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.0,
+									"size": 0
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.167,
+									"size": 4
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.542,
+									"size": 13
+								}
+							]
+						},
+						{
+							"name": "Truman State University",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.36,
+									"size": 18
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.3,
+									"size": 15
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.02,
+									"size": 1
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.04,
+									"size": 2
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.28,
+									"size": 14
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "New York",
+					"children": [{
+							"name": "Students of New York",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.0,
+									"size": 0
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.467,
+									"size": 21
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.022,
+									"size": 1
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.111,
+									"size": 5
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.4,
+									"size": 18
+								}
+							]
+						},
+						{
+							"name": "Cornell University",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.287,
+									"size": 35
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.361,
+									"size": 44
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.033,
+									"size": 4
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.008,
+									"size": 1
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.311,
+									"size": 38
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "North Carolina",
+					"children": [{
+							"name": "Appalachian State University",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.172,
+									"size": 5
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.31,
+									"size": 9
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.0,
+									"size": 0
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.103,
+									"size": 3
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.414,
+									"size": 12
+								}
+							]
+						},
+						{
+							"name": "High Point University",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.0,
+									"size": 0
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.0,
+									"size": 0
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.0,
+									"size": 0
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.0,
+									"size": 0
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 1.0,
+									"size": 2
+								}
+							]
+						},
+						{
+							"name": "University of North Carolina",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.241,
+									"size": 14
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.276,
+									"size": 16
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.034,
+									"size": 2
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.086,
+									"size": 5
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.362,
+									"size": 21
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Texas",
+					"children": [{
+							"name": "University of Texas",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.342,
+									"size": 13
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.289,
+									"size": 11
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.026,
+									"size": 1
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.0,
+									"size": 0
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.342,
+									"size": 13
+								}
+							]
+						},
+						{
+							"name": "Texas A&M University",
+							"children": [{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.314,
+									"size": 11
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.114,
+									"size": 4
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.086,
+									"size": 3
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.286,
+									"size": 10
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Virginia",
+					"children": [{
+							"name": "College of William and Mary",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.287,
+									"size": 25
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.287,
+									"size": 25
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.057,
+									"size": 5
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.023,
+									"size": 2
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.345,
+									"size": 30
+								}
+							]
+						},
+						{
+							"name": "Hampden-Sydney College ",
+							"children": [{
+								"author_color": "#3B6001",
+								"name": "Facebook",
+								"weight": 0.0,
+								"size": 0
+							}]
+						},
+						{
+							"name": "University of Virginia",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.25,
+									"size": 64
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.293,
+									"size": 75
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.039,
+									"size": 10
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.047,
+									"size": 12
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.371,
+									"size": 95
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Washington",
+					"children": [{
+						"name": "University of Washington",
+						"children": [{
+								"author_color": "#3B6001",
+								"name": "Facebook",
+								"weight": 0.245,
+								"size": 12
+							},
+							{
+								"author_color": "#E1306C",
+								"name": "Instagram",
+								"weight": 0.388,
+								"size": 19
+							},
+							{
+								"author_color": "#FEE704",
+								"name": "Snapchat",
+								"weight": 0.02,
+								"size": 1
+							},
+							{
+								"author_color": "#E3F1FC",
+								"name": "Twitter",
+								"weight": 0.041,
+								"size": 2
+							},
+							{
+								"author_color": "#FFFFFF",
+								"name": "None",
+								"weight": 0.306,
+								"size": 15
+							}
+						]
+					}]
+				},
+				{
+					"name": "Wisconsin",
+					"children": [{
+						"name": "University of Wisconsin-Madison",
+						"children": [{
+								"author_color": "#3B6001",
+								"name": "Facebook",
+								"weight": 0.252,
+								"size": 26
+							},
+							{
+								"author_color": "#E1306C",
+								"name": "Instagram",
+								"weight": 0.34,
+								"size": 35
+							},
+							{
+								"author_color": "#FEE704",
+								"name": "Snapchat",
+								"weight": 0.01,
+								"size": 1
+							},
+							{
+								"author_color": "#E3F1FC",
+								"name": "Twitter",
+								"weight": 0.068,
+								"size": 7
+							},
+							{
+								"author_color": "#FFFFFF",
+								"name": "None",
+								"weight": 0.33,
+								"size": 34
+							}
+						]
+					}]
+				}
+			]
+		},
+		{
+			"name": "Education/Work",
+			"children": [{
+					"name": "pursuits/educational goals?",
+					"children": [{
+							"name": "Humanities",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.227,
+									"size": 180
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.366,
+									"size": 291
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.023,
+									"size": 18
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.059,
+									"size": 47
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.325,
+									"size": 258
+								}
+							]
+						},
+						{
+							"name": "Technical / engineering",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.224,
+									"size": 160
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.256,
+									"size": 183
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.038,
+									"size": 27
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.056,
+									"size": 40
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.426,
+									"size": 304
+								}
+							]
+						},
+						{
+							"name": "Undecided",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.175,
+									"size": 80
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.329,
+									"size": 150
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.033,
+									"size": 15
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.072,
+									"size": 33
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.39,
+									"size": 178
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Public / Private school",
+					"children": [{
+							"name": "No school",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.125,
+									"size": 4
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.313,
+									"size": 10
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.031,
+									"size": 1
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.031,
+									"size": 1
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.5,
+									"size": 16
+								}
+							]
+						},
+						{
+							"name": "Private",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.169,
+									"size": 61
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.29,
+									"size": 105
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.022,
+									"size": 8
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.055,
+									"size": 20
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.464,
+									"size": 168
+								}
+							]
+						},
+						{
+							"name": "Public",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.153,
+									"size": 117
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.326,
+									"size": 250
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.035,
+									"size": 27
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.09,
+									"size": 69
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.396,
+									"size": 304
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Graduation Year",
+					"children": [{
+						"name": "Graduation Year 2017",
+						"children": [{
+								"author_color": "#3B6001",
+								"name": "Facebook",
+								"weight": 0.274,
+								"size": 61
+							},
+							{
+								"author_color": "#E1306C",
+								"name": "Instagram",
+								"weight": 0.278,
+								"size": 62
+							},
+							{
+								"author_color": "#FEE704",
+								"name": "Snapchat",
+								"weight": 0.036,
+								"size": 8
+							},
+							{
+								"author_color": "#E3F1FC",
+								"name": "Twitter",
+								"weight": 0.022,
+								"size": 5
+							},
+							{
+								"author_color": "#FFFFFF",
+								"name": "None",
+								"weight": 0.39,
+								"size": 87
+							}
+						]
+					}, {
+						"name": "Graduation Year 2018",
+						"children": [{
+								"author_color": "#3B6001",
+								"name": "Facebook",
+								"weight": 0.244,
+								"size": 88
+							},
+							{
+								"author_color": "#E1306C",
+								"name": "Instagram",
+								"weight": 0.317,
+								"size": 114
+							},
+							{
+								"author_color": "#FEE704",
+								"name": "Snapchat",
+								"weight": 0.033,
+								"size": 12
+							},
+							{
+								"author_color": "#E3F1FC",
+								"name": "Twitter",
+								"weight": 0.047,
+								"size": 17
+							},
+							{
+								"author_color": "#FFFFFF",
+								"name": "None",
+								"weight": 0.358,
+								"size": 129
+							}
+						]
+					}, {
+						"name": "Graduation Year 2019",
+						"children": [{
+								"author_color": "#3B6001",
+								"name": "Facebook",
+								"weight": 0.262,
+								"size": 221
+							},
+							{
+								"author_color": "#E1306C",
+								"name": "Instagram",
+								"weight": 0.345,
+								"size": 291
+							},
+							{
+								"author_color": "#FEE704",
+								"name": "Snapchat",
+								"weight": 0.028,
+								"size": 24
+							},
+							{
+								"author_color": "#E3F1FC",
+								"name": "Twitter",
+								"weight": 0.055,
+								"size": 46
+							},
+							{
+								"author_color": "#FFFFFF",
+								"name": "None",
+								"weight": 0.31,
+								"size": 262
+							}
+						]
+					}, {
+						"name": "Graduation Year 2020",
+						"children": [{
+								"author_color": "#3B6001",
+								"name": "Facebook",
+								"weight": 0.155,
+								"size": 74
+							},
+							{
+								"author_color": "#E1306C",
+								"name": "Instagram",
+								"weight": 0.314,
+								"size": 150
+							},
+							{
+								"author_color": "#FEE704",
+								"name": "Snapchat",
+								"weight": 0.031,
+								"size": 15
+							},
+							{
+								"author_color": "#E3F1FC",
+								"name": "Twitter",
+								"weight": 0.099,
+								"size": 47
+							},
+							{
+								"author_color": "#FFFFFF",
+								"name": "None",
+								"weight": 0.4,
+								"size": 191
+							}
+						]
+					}]
+				},
+				{
+					"name": "have a job? ",
+					"children": [{
+							"name": "No, but I'm searching for one",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.205,
+									"size": 98
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.351,
+									"size": 168
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.027,
+									"size": 13
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.052,
+									"size": 25
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.364,
+									"size": 174
+								}
+							]
+						},
+						{
+							"name": "Nope, and not looking for one",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.214,
+									"size": 198
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.323,
+									"size": 299
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.04,
+									"size": 37
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.073,
+									"size": 68
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.351,
+									"size": 325
+								}
+							]
+						},
+						{
+							"name": "Yes, full-time",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.187,
+									"size": 23
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.301,
+									"size": 37
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.049,
+									"size": 6
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.049,
+									"size": 6
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.415,
+									"size": 51
+								}
+							]
+						},
+						{
+							"name": "Yes, part-time",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.202,
+									"size": 147
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.328,
+									"size": 239
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.016,
+									"size": 12
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.077,
+									"size": 56
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.376,
+									"size": 274
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "student loan debt? ",
+					"children": [{
+							"name": "No",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.213,
+									"size": 326
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.33,
+									"size": 504
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.031,
+									"size": 47
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.065,
+									"size": 99
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.361,
+									"size": 552
+								}
+							]
+						},
+						{
+							"name": "Yes",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.193,
+									"size": 148
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.337,
+									"size": 258
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.027,
+									"size": 21
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.078,
+									"size": 60
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.364,
+									"size": 279
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "What's your GPA? ",
+					"children": [{
+							"name": "1.0 to 2.0",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.03,
+									"size": 1
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.545,
+									"size": 18
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.061,
+									"size": 2
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.121,
+									"size": 4
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.242,
+									"size": 8
+								}
+							]
+						},
+						{
+							"name": "2.0 to 3.0",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.176,
+									"size": 76
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.363,
+									"size": 157
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.023,
+									"size": 10
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.079,
+									"size": 34
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.36,
+									"size": 156
+								}
+							]
+						},
+						{
+							"name": "3.0 to 4.0",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.222,
+									"size": 347
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.321,
+									"size": 502
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.03,
+									"size": 47
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.063,
+									"size": 99
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.365,
+									"size": 571
+								}
+							]
+						},
+						{
+							"name": "Above 4.0",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.131,
+									"size": 19
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.379,
+									"size": 55
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.034,
+									"size": 5
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.069,
+									"size": 10
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.386,
+									"size": 56
+								}
+							]
+						},
+						{
+							"name": "Below 1.0",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.188,
+									"size": 9
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.313,
+									"size": 15
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.021,
+									"size": 1
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.083,
+									"size": 4
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.396,
+									"size": 19
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "What's your major? ",
+					"children": [{
+							"name": "Business/Econ/Finance",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.245,
+									"size": 39
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.22,
+									"size": 35
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.063,
+									"size": 10
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.069,
+									"size": 11
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.403,
+									"size": 64
+								}
+							]
+						},
+						{
+							"name": "Comm / marketing",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.308,
+									"size": 37
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.333,
+									"size": 40
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.017,
+									"size": 2
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.05,
+									"size": 6
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.292,
+									"size": 35
+								}
+							]
+						},
+						{
+							"name": "Comp sci",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.261,
+									"size": 18
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.275,
+									"size": 19
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.014,
+									"size": 1
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.043,
+									"size": 3
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.406,
+									"size": 28
+								}
+							]
+						},
+						{
+							"name": "History",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.205,
+									"size": 8
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.308,
+									"size": 12
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.051,
+									"size": 2
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.0,
+									"size": 0
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.436,
+									"size": 17
+								}
+							]
+						},
+						{
+							"name": "Languages",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.29,
+									"size": 9
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.387,
+									"size": 12
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.032,
+									"size": 1
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.032,
+									"size": 1
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.258,
+									"size": 8
+								}
+							]
+						},
+						{
+							"name": "ME/EE/other engineer",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.183,
+									"size": 40
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.215,
+									"size": 47
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.037,
+									"size": 8
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.064,
+									"size": 14
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.502,
+									"size": 110
+								}
+							]
+						},
+						{
+							"name": "Other",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.242,
+									"size": 31
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.25,
+									"size": 32
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.023,
+									"size": 3
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.055,
+									"size": 7
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.43,
+									"size": 55
+								},
+								{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.209,
+									"size": 88
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.37,
+									"size": 156
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.021,
+									"size": 9
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.062,
+									"size": 26
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.339,
+									"size": 143
+								}
+							]
+						},
+						{
+							"name": "Political science / philosophy",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.232,
+									"size": 38
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.354,
+									"size": 58
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.024,
+									"size": 4
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.049,
+									"size": 8
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.341,
+									"size": 56
+								}
+							]
+						},
+						{
+							"name": "Pre-med",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.245,
+									"size": 39
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.365,
+									"size": 58
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.038,
+									"size": 6
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.031,
+									"size": 5
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.321,
+									"size": 51
+								}
+							]
+						},
+						{
+							"name": "Visual/performing arts",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.136,
+									"size": 3
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.5,
+									"size": 11
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.0,
+									"size": 0
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.045,
+									"size": 1
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.318,
+									"size": 7
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "levels of education?",
+					"children": [{
+							"name": "College",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.215,
+									"size": 499
+								}, {
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.336,
+									"size": 781
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.032,
+									"size": 74
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.065,
+									"size": 151
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.353,
+									"size": 820
+								}
+							]
+						},
+						{
+							"name": "Grad School",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.171,
+									"size": 7
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.317,
+									"size": 13
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.098,
+									"size": 4
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.073,
+									"size": 3
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.341,
+									"size": 14
+								}
+							]
+						},
+						{
+							"name": "High School",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.105,
+									"size": 29
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.347,
+									"size": 96
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.051,
+									"size": 14
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.116,
+									"size": 32
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.383,
+									"size": 106
+								}
+							]
+						},
+						{
+							"name": "Other",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.158,
+									"size": 3
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.316,
+									"size": 6
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.105,
+									"size": 2
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.0,
+									"size": 0
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.421,
+									"size": 8
+								}
+							]
+						},
+						{
+							"name": "Post-grad",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.158,
+									"size": 15
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.368,
+									"size": 35
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.011,
+									"size": 1
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.011,
+									"size": 1
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.453,
+									"size": 43
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "grow up speaking? ",
+					"children": [{
+							"name": "Both",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.116,
+									"size": 5
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.372,
+									"size": 16
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.023,
+									"size": 1
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.14,
+									"size": 6
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.349,
+									"size": 15
+								}
+							]
+						},
+						{
+							"name": "English",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.16,
+									"size": 167
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.307,
+									"size": 321
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.036,
+									"size": 38
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.073,
+									"size": 76
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.424,
+									"size": 443
+								}
+							]
+						},
+						{
+							"name": "Some other language (comment)",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.175,
+									"size": 18
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.311,
+									"size": 32
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.029,
+									"size": 3
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.078,
+									"size": 8
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.408,
+									"size": 42
+								}
+							]
+						},
+						{
+							"name": "Spanish",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.174,
+									"size": 4
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.217,
+									"size": 5
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.13,
+									"size": 3
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.217,
+									"size": 5
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.261,
+									"size": 6
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "in Greek life? ",
+					"children": [{
+							"name": "No but I wanna be...",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.22,
+									"size": 53
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.324,
+									"size": 78
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.05,
+									"size": 12
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.079,
+									"size": 19
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.328,
+									"size": 79
+								}
+							]
+						},
+						{
+							"name": "No!",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.166,
+									"size": 98
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.277,
+									"size": 164
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.027,
+									"size": 16
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.074,
+									"size": 44
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.456,
+									"size": 270
+								}
+							]
+						},
+						{
+							"name": "Yes but regretting it",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.222,
+									"size": 20
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.367,
+									"size": 33
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.011,
+									"size": 1
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.078,
+									"size": 7
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.322,
+									"size": 29
+								}
+							]
+						},
+						{
+							"name": "Yes!",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.247,
+									"size": 267
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.34,
+									"size": 368
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.03,
+									"size": 33
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.054,
+									"size": 58
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.329,
+									"size": 356
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Personal Information",
+			"children": [{
+					"name": "Are you single? ",
+					"children": [{
+							"name": "No",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.17,
+									"size": 53
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.337,
+									"size": 105
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.026,
+									"size": 8
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.071,
+									"size": 22
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.397,
+									"size": 124
+								}
+							]
+						},
+						{
+							"name": "Yes",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.164,
+									"size": 128
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.314,
+									"size": 245
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.032,
+									"size": 25
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.073,
+									"size": 57
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.417,
+									"size": 325
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Religion ",
+					"children": [{
+							"name": "Christian",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.208,
+									"size": 231
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.348,
+									"size": 387
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.026,
+									"size": 29
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.076,
+									"size": 85
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.342,
+									"size": 381
+								}
+							]
+						},
+						{
+							"name": "Jewish",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.291,
+									"size": 68
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.291,
+									"size": 68
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.038,
+									"size": 9
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.026,
+									"size": 6
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.355,
+									"size": 83
+								}
+							]
+						},
+						{
+							"name": "Muslim",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.143,
+									"size": 3
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.238,
+									"size": 5
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.143,
+									"size": 3
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.095,
+									"size": 2
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.381,
+									"size": 8
+								}
+							]
+						},
+						{
+							"name": "None/Other",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.229,
+									"size": 172
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.308,
+									"size": 231
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.028,
+									"size": 21
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.047,
+									"size": 35
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.389,
+									"size": 292
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "closely identify as? ",
+					"children": [{
+							"name": "Asian",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.266,
+									"size": 51
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.318,
+									"size": 61
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.036,
+									"size": 7
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.021,
+									"size": 4
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.359,
+									"size": 69
+								}
+							]
+						},
+						{
+							"name": "Black",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.138,
+									"size": 13
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.436,
+									"size": 41
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.032,
+									"size": 3
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.085,
+									"size": 8
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.309,
+									"size": 29
+								}
+							]
+						},
+						{
+							"name": "Hispanic",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.177,
+									"size": 20
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.336,
+									"size": 38
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.027,
+									"size": 3
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.097,
+									"size": 11
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.363,
+									"size": 41
+								}
+							]
+						},
+						{
+							"name": "Native American",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.154,
+									"size": 2
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.462,
+									"size": 6
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.0,
+									"size": 0
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.154,
+									"size": 2
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.231,
+									"size": 3
+								}
+							]
+						},
+						{
+							"name": "Other",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.217,
+									"size": 20
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.37,
+									"size": 34
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.033,
+									"size": 3
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.011,
+									"size": 1
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.37,
+									"size": 34
+								}
+							]
+						},
+						{
+							"name": "White",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.224,
+									"size": 352
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.317,
+									"size": 498
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.03,
+									"size": 47
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.065,
+									"size": 102
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.365,
+									"size": 573
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Sexual orientation? ",
+					"children": [{
+							"name": "Bi",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.205,
+									"size": 17
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.422,
+									"size": 35
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.024,
+									"size": 2
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.084,
+									"size": 7
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.265,
+									"size": 22
+								}
+							]
+						},
+						{
+							"name": "Confused",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.277,
+									"size": 13
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.383,
+									"size": 18
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.021,
+									"size": 1
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.043,
+									"size": 2
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.277,
+									"size": 13
+								}
+							]
+						},
+						{
+							"name": "Gay",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.227,
+									"size": 5
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.182,
+									"size": 4
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.045,
+									"size": 1
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.091,
+									"size": 2
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.455,
+									"size": 10
+								}
+							]
+						},
+						{
+							"name": "Straight",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.18,
+									"size": 215
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.297,
+									"size": 354
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.037,
+									"size": 44
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.074,
+									"size": 88
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.412,
+									"size": 492
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "you a virgin? ",
+					"children": [{
+							"name": "No",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.213,
+									"size": 362
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.341,
+									"size": 579
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.03,
+									"size": 51
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.064,
+									"size": 108
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.351,
+									"size": 596
+								}
+							]
+						},
+						{
+							"name": "Yes",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.179,
+									"size": 104
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.311,
+									"size": 181
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.031,
+									"size": 18
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.081,
+									"size": 47
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.399,
+									"size": 232
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "your zodiac sign? ",
+					"children": [{
+							"name": "Aquarius",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.243,
+									"size": 25
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.252,
+									"size": 26
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.019,
+									"size": 2
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.058,
+									"size": 6
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.427,
+									"size": 44
+								}
+							]
+						},
+						{
+							"name": "Aries",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.184,
+									"size": 19
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.311,
+									"size": 32
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.068,
+									"size": 7
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.087,
+									"size": 9
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.35,
+									"size": 36
+								}
+							]
+						},
+						{
+							"name": "Cancer",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.127,
+									"size": 13
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.275,
+									"size": 28
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.029,
+									"size": 3
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.118,
+									"size": 12
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.451,
+									"size": 46
+								}
+							]
+						},
+						{
+							"name": "Capricorn",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.057,
+									"size": 5
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.375,
+									"size": 33
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.023,
+									"size": 2
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.034,
+									"size": 3
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.511,
+									"size": 45
+								}
+							]
+						},
+						{
+							"name": "Gemini",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.133,
+									"size": 12
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.4,
+									"size": 36
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.022,
+									"size": 2
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.067,
+									"size": 6
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.378,
+									"size": 34
+								}
+							]
+						},
+						{
+							"name": "Leo",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.188,
+									"size": 16
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.306,
+									"size": 26
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.024,
+									"size": 2
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.071,
+									"size": 6
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.412,
+									"size": 35
+								}
+							]
+						},
+						{
+							"name": "Libra",
+							"children": [
+								{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.167,
+									"size": 14
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.357,
+									"size": 30
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.012,
+									"size": 1
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.071,
+									"size": 6
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.393,
+									"size": 33
+								}
+							]
+						},
+						{
+							"name": "Pisces",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.14,
+									"size": 12
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.314,
+									"size": 27
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.012,
+									"size": 1
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.058,
+									"size": 5
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.477,
+									"size": 41
+								}
+							]
+						},
+						{
+							"name": "Sagittarius",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.131,
+									"size": 11
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.31,
+									"size": 26
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.024,
+									"size": 2
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.131,
+									"size": 11
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.405,
+									"size": 34
+								}
+							]
+						},
+						{
+							"name": "Scorpio",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.132,
+									"size": 14
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.274,
+									"size": 29
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.038,
+									"size": 4
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.094,
+									"size": 10
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.462,
+									"size": 49
+								}
+							]
+						},
+						{
+							"name": "Taurus",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.235,
+									"size": 23
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.276,
+									"size": 27
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.02,
+									"size": 2
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.071,
+									"size": 7
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.398,
+									"size": 39
+								}
+							]
+						},
+						{
+							"name": "Virgo",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.135,
+									"size": 18
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.301,
+									"size": 40
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.06,
+									"size": 8
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.06,
+									"size": 8
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.444,
+									"size": 59
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Politics/Associations",
+			"children": [{
+					"name": "clubs / organizations? ",
+					"children": [{
+							"name": "A major one",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.257,
+									"size": 49
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.34,
+									"size": 65
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.037,
+									"size": 7
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.052,
+									"size": 10
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.314,
+									"size": 60
+								}
+							]
+						},
+						{
+							"name": "A minor one",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.258,
+									"size": 66
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.316,
+									"size": 81
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.023,
+									"size": 6
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.051,
+									"size": 13
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.352,
+									"size": 90
+								}
+							]
+						},
+						{
+							"name": "More than one major org",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.304,
+									"size": 14
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.196,
+									"size": 9
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.043,
+									"size": 2
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.043,
+									"size": 2
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.413,
+									"size": 19
+								}
+							]
+						},
+						{
+							"name": "No",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.207,
+									"size": 320
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.323,
+									"size": 499
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.029,
+									"size": 45
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.068,
+									"size": 105
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.372,
+									"size": 574
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Voters? ",
+					"children": [{
+						"name": "Female voters",
+						"children": [{
+								"author_color": "#3B6001",
+								"name": "Facebook",
+								"weight": 0.199,
+								"size": 222
+							},
+							{
+								"author_color": "#E1306C",
+								"name": "Instagram",
+								"weight": 0.48,
+								"size": 535
+							},
+							{
+								"author_color": "#FEE704",
+								"name": "Snapchat",
+								"weight": 0.026,
+								"size": 29
+							},
+							{
+								"author_color": "#E3F1FC",
+								"name": "Twitter",
+								"weight": 0.051,
+								"size": 57
+							},
+							{
+								"author_color": "#FFFFFF",
+								"name": "None",
+								"weight": 0.243,
+								"size": 271
+							}
+						]
+					}, {
+						"name": "Male voters",
+						"children": [{
+								"author_color": "#3B6001",
+								"name": "Facebook",
+								"weight": 0.209,
+								"size": 326
+							},
+							{
+								"author_color": "#E1306C",
+								"name": "Instagram",
+								"weight": 0.243,
+								"size": 380
+							},
+							{
+								"author_color": "#FEE704",
+								"name": "Snapchat",
+								"weight": 0.036,
+								"size": 56
+							},
+							{
+								"author_color": "#E3F1FC",
+								"name": "Twitter",
+								"weight": 0.078,
+								"size": 122
+							},
+							{
+								"author_color": "#FFFFFF",
+								"name": "None",
+								"weight": 0.434,
+								"size": 678
+							}
+						]
+					}]
+				}
+			]
+		},
+		{
+			"name": "Technology",
+			"children": [{
+					"name": "games a lot? ",
+					"children": [{
+							"name": "No",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.147,
+									"size": 14
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.284,
+									"size": 27
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.032,
+									"size": 3
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.063,
+									"size": 6
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.474,
+									"size": 45
+								}
+							]
+						},
+						{
+							"name": "Yes, console mostly",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.135,
+									"size": 20
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.25,
+									"size": 37
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.054,
+									"size": 8
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.149,
+									"size": 22
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.412,
+									"size": 61
+								}
+							]
+						},
+						{
+							"name": "Yes, mobile mostly",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.077,
+									"size": 1
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.231,
+									"size": 3
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.0,
+									"size": 0
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.0,
+									"size": 0
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.692,
+									"size": 9
+								}
+							]
+						},
+						{
+							"name": "Yes, PC mostly",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.085,
+									"size": 7
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.22,
+									"size": 18
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.012,
+									"size": 1
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.049,
+									"size": 4
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.634,
+									"size": 52
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Mac or PC? ",
+					"children": [{
+							"name": "Mac",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.215,
+									"size": 313
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.375,
+									"size": 546
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.026,
+									"size": 38
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.064,
+									"size": 93
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.321,
+									"size": 467
+								}
+							]
+						},
+						{
+							"name": "Other ",
+							"children": [
+								{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.154,
+									"size": 8
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.212,
+									"size": 11
+								},{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.058,
+									"size": 3
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.077,
+									"size": 4
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.5,
+									"size": 26
+								}
+							]
+						},
+						{
+							"name": "PC",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.193,
+									"size": 145
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.273,
+									"size": 205
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.033,
+									"size": 25
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.072,
+									"size": 54
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.429,
+									"size": 322
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Political Beliefs",
+			"children": [{
+					"name": "What's your leaning? ",
+					"children": [{
+							"name": "Conservative",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.196,
+									"size": 144
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.327,
+									"size": 241
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.037,
+									"size": 27
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.082,
+									"size": 60
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.359,
+									"size": 264
+								}
+							]
+						},
+						{
+							"name": "In-between",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.196,
+									"size": 132
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.317,
+									"size": 213
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.033,
+									"size": 22
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.054,
+									"size": 36
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.4,
+									"size": 269
+								}
+							]
+						},
+						{
+							"name": "Liberal",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.223,
+									"size": 186
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.349,
+									"size": 291
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.023,
+									"size": 19
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.065,
+									"size": 54
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.341,
+									"size": 284
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "you a feminist? ",
+					"children": [{
+							"name": "No",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.157,
+									"size": 45
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.203,
+									"size": 58
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.038,
+									"size": 11
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.077,
+									"size": 22
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.524,
+									"size": 150
+								}
+							]
+						},
+						{
+							"name": "Yes",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.167,
+									"size": 34
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.319,
+									"size": 65
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.029,
+									"size": 6
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.064,
+									"size": 13
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.422,
+									"size": 86
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "you vote for? ",
+					"children": [{
+							"name": "Didn't vote",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.199,
+									"size": 58
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.333,
+									"size": 97
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.031,
+									"size": 9
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.069,
+									"size": 20
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.368,
+									"size": 107
+								}
+							]
+						},
+						{
+							"name": "Donald Trump",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.175,
+									"size": 87
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.321,
+									"size": 159
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.038,
+									"size": 19
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.101,
+									"size": 50
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.365,
+									"size": 181
+								}
+							]
+						},
+						{
+							"name": "Gary Johnson",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.242,
+									"size": 62
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.234,
+									"size": 60
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.02,
+									"size": 5
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.063,
+									"size": 16
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.441,
+									"size": 113
+								}
+							]
+						},
+						{
+							"name": "Hillary Clinton",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.236,
+									"size": 197
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.342,
+									"size": 285
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.026,
+									"size": 22
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.046,
+									"size": 38
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.349,
+									"size": 291
+								}
+							]
+						},
+						{
+							"name": "Jill Stein",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.192,
+									"size": 5
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.192,
+									"size": 5
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.038,
+									"size": 1
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.154,
+									"size": 4
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.423,
+									"size": 11
+								}
+							]
+						},
+						{
+							"name": "Other",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.3,
+									"size": 18
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.317,
+									"size": 19
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.067,
+									"size": 4
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.05,
+									"size": 3
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.267,
+									"size": 16
+								}
+							]
+						},
+						{
+							"name": "Bernie",
+							"children": [{
+									"author_color": "#3B6001",
+									"name": "Facebook",
+									"weight": 0.2,
+									"size": 28
+								},
+								{
+									"author_color": "#E1306C",
+									"name": "Instagram",
+									"weight": 0.379,
+									"size": 53
+								},
+								{
+									"author_color": "#FEE704",
+									"name": "Snapchat",
+									"weight": 0.021,
+									"size": 3
+								},
+								{
+									"author_color": "#E3F1FC",
+									"name": "Twitter",
+									"weight": 0.057,
+									"size": 8
+								},
+								{
+									"author_color": "#FFFFFF",
+									"name": "None",
+									"weight": 0.343,
+									"size": 48
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Financial income.",
+			"children": [{
+					"name": "Middle / lower-middle class",
+					"children": [{
+							"author_color": "#3B6001",
+							"name": "Facebook",
+							"weight": 0.121,
+							"size": 41
+						},
+						{
+							"author_color": "#E1306C",
+							"name": "Instagram",
+							"weight": 0.326,
+							"size": 111
+						},
+						{
+							"author_color": "#FEE704",
+							"name": "Snapchat",
+							"weight": 0.035,
+							"size": 12
+						},
+						{
+							"author_color": "#E3F1FC",
+							"name": "Twitter",
+							"weight": 0.094,
+							"size": 32
+						},
+						{
+							"author_color": "#FFFFFF",
+							"name": "None",
+							"weight": 0.424,
+							"size": 144
+						}
+					]
+				},
+				{
+					"name": "Poor",
+					"children": [{
+							"author_color": "#3B6001",
+							"name": "Facebook",
+							"weight": 0.112,
+							"size": 15
+						},
+						{
+							"author_color": "#E1306C",
+							"name": "Instagram",
+							"weight": 0.336,
+							"size": 45
+						},
+						{
+							"author_color": "#FEE704",
+							"name": "Snapchat",
+							"weight": 0.052,
+							"size": 7
+						},
+						{
+							"author_color": "#E3F1FC",
+							"name": "Twitter",
+							"weight": 0.075,
+							"size": 10
+						},
+						{
+							"author_color": "#FFFFFF",
+							"name": "None",
+							"weight": 0.425,
+							"size": 57
+						}
+					]
+				},
+				{
+					"name": "Upper class",
+					"children": [{
+							"author_color": "#3B6001",
+							"name": "Facebook",
+							"weight": 0.23,
+							"size": 70
+						},
+						{
+							"author_color": "#E1306C",
+							"name": "Instagram",
+							"weight": 0.273,
+							"size": 83
+						},
+						{
+							"author_color": "#FEE704",
+							"name": "Snapchat",
+							"weight": 0.026,
+							"size": 8
+						},
+						{
+							"author_color": "#E3F1FC",
+							"name": "Twitter",
+							"weight": 0.043,
+							"size": 13
+						},
+						{
+							"author_color": "#FFFFFF",
+							"name": "None",
+							"weight": 0.428,
+							"size": 130
+						}
+					]
+				},
+				{
+					"name": "Upper-middle class",
+					"children": [{
+							"author_color": "#3B6001",
+							"name": "Facebook",
+							"weight": 0.157,
+							"size": 71
+						},
+						{
+							"author_color": "#E1306C",
+							"name": "Instagram",
+							"weight": 0.33,
+							"size": 149
+						},
+						{
+							"author_color": "#FEE704",
+							"name": "Snapchat",
+							"weight": 0.024,
+							"size": 11
+						},
+						{
+							"author_color": "#E3F1FC",
+							"name": "Twitter",
+							"weight": 0.093,
+							"size": 42
+						},
+						{
+							"author_color": "#FFFFFF",
+							"name": "None",
+							"weight": 0.395,
+							"size": 178
+						}
+					]
+				}
+			]
+
+		}
+	]
+}
