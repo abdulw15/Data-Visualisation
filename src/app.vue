@@ -4,7 +4,7 @@
     .left-side
       .title
         h3 Data Visualisation Coursework:
-        <h2 style="text-align:center">How has the usage and prominence of social media platforms changed over time in terms of their impact on various age groups?</h2>
+        h2 How has the usage and prominence of social media platforms changed over time in terms of their impact on various age groups?
         <body style="text-align:center">
           <h5 style="color:Blue;padding:0%;margin-bottom:0px;">All Users</h5>
           <h5 style="color:Tomato;margin-top:0px;margin-bottom:0px;">Age 20+</h5>
@@ -177,17 +177,17 @@ content
 .title
   margin-bottom: 10px
   margin-top: 10px
-  h3
+  h1
     color: #b51f24
     font-family: "HelveticaLTStd-Bold"
-    font-size: 20px
+    font-size: 35px
   h2
     color: #e60b29   
     border-bottom: 3px solid #000;
     border-top: 2px solid #000;
     font-size: 20px
     margin-bottom: -4px
-  h2, h3
+  h1, h2
     margin: 20
 
 .left-side
@@ -231,14 +231,14 @@ form.search
 
 ul.names-list
   list-style none
-  padding 1
+  padding 5
   margin 0
   display: flex
   flex-wrap: wrap
   justify-content: space-between
   li
     cursor pointer
-    padding 3px
+    padding 5px
     line-height 0.9
     display: inline-flex
     align-items: center
